@@ -117177,6 +117177,20 @@
     },
     {
       "chainId": 101,
+      "address": "4gC2RFo69c8oGqzqAcrhtQgJCu13EEMWUVtkpVbDjQx2",
+      "symbol": "RUFF",
+      "name": "CrazyHuskies Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DEAN3lr/Crazyhuskies/main/pixil-frame-0%20(4).png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/crazyhuskies"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "Cfafd52FfHRA5FRkTXmMNyHZfhNkbaHpZ12ggmeTVEMw",
       "symbol": "cFAF",
       "name": "Friends and Family Council Token",
